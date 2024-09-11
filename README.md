@@ -1,8 +1,15 @@
-# React + Vite
+##Transcript Editor
+##Description
+The Transcript Editor is a web application that allows users to edit and play back transcripts. It features real-time highlighting of words and playback controls for ease of use. The application is built using React and integrates speech synthesis for playback functionality.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Features
+Edit Transcripts: Click on words to edit them in real-time.
+Playback Controls: Play and pause the transcript playback.
+Real-Time Highlighting: Words are highlighted as they are spoken.
+Responsive Design: The UI is responsive and works well on various devices.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Technologies Used
+React: JavaScript library for building user interfaces.
+Tailwind CSS: Utility-first CSS framework for styling.
+Framer Motion: Library for animations and transitions.
+SpeechSynthesis API: Web API for text-to-speech functionality.
