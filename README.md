@@ -17,7 +17,7 @@ SpeechSynthesis API: Web API for text-to-speech functionality.
 ## Installation
 To get started with this project, clone the repository and install the necessary dependencies:
 1) git clone https://github.com/Shreyyyas22/VC-Transcript-Assignment.git
-2) cd <repository-directory>
+2) cd repository-directory
 3) npm install
 
 To start the development server and see the application in action, run:
