@@ -1,4 +1,4 @@
-##Transcript Editor
+Transcript Editor
 ##Description
 The Transcript Editor is a web application that allows users to edit and play back transcripts. It features real-time highlighting of words and playback controls for ease of use. The application is built using React and integrates speech synthesis for playback functionality.
 
@@ -13,3 +13,7 @@ React: JavaScript library for building user interfaces.
 Tailwind CSS: Utility-first CSS framework for styling.
 Framer Motion: Library for animations and transitions.
 SpeechSynthesis API: Web API for text-to-speech functionality.
+
+Installation
+To get started with this project, clone the repository and install the necessary dependencies:
+git clone 
